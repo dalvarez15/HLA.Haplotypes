@@ -1,1 +1,2 @@
 # HLA.Haplotypes
+This repository contains all R (version 4.0.0) scripts mentioned in MSc Minor Bioinformatics Research Project: "A Novel HLA-B∼C andHLA-DQB1∼DRB1 Haplotype Estimation Method Validated on Inferred Haplotypes from an HLA-typed Panel with FamilyData". Scripts are meant to be run in order, starting by "0_Haplotype_Functions.r", which stores all custom functions created for the project. Packages that are needed are also loaded in this script, and must be installed in your terminal. 
